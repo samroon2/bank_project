@@ -38,8 +38,6 @@ The there's no fancy data structures or algorithms in the code base give the nat
 -  Assuming there might be card holders who might not necessarily have an account (their card is linked to some account holder account though).
 
 ## Instructions for running the code:
-- unzip .gz file in the directory of your choice and navigate to that directory in your terminal.
-Then, depending on your desired interaction with the code:
 
 ### Using docker to run tests.
 - Using docker we're going to build the image and run the tests.
@@ -190,4 +188,4 @@ Raised if there is a withdrawal attempt made that is greater than the limit set 
 
 
 ## More
-Please look through the tests (all in the tests directory) which contain further test case examples and provide demonstration of the project requirements.
+Please look through the tests (all in the tests directory) which contain further test case examples and provide demonstration of the project.
