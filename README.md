@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/samroon2/bank_project.svg?branch=main)](https://travis-ci.org/samroon2/bank_project)
+
 ```shell
  ____              _
 | __ )  __ _ _ __ | | __
