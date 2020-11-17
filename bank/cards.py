@@ -56,4 +56,4 @@ class Card:
         """
         if self.status != "active":
             return False
-        return pin == __pin and expiry == self.expiry_date and cvv == self.cvv
+        return pin == self.__pin and expiry == self.expiry_date and cvv == self.cvv
